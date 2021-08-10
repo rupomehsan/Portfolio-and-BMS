@@ -1,0 +1,131 @@
+[30-Jul-2020 13:51:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'sccess' (T_STRING), expecting ',' or ';' in /home1/mdrupomehsan/public_html/blood-manage.php on line 129
+[30-Jul-2020 13:51:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'sccess' (T_STRING), expecting ',' or ';' in /home1/mdrupomehsan/public_html/blood-manage.php on line 129
+[05-Aug-2020 23:45:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home1/mdrupomehsan/public_html/blood-manage.php on line 144
+[05-Aug-2020 23:45:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home1/mdrupomehsan/public_html/blood-manage.php on line 144
+[05-Aug-2020 23:46:51 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home1/mdrupomehsan/public_html/all-doner.php on line 118
+[05-Aug-2020 23:47:09 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home1/mdrupomehsan/public_html/all-doner.php on line 118
+[05-Aug-2020 23:47:49 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home1/mdrupomehsan/public_html/all-doner.php on line 118
+[05-Aug-2020 23:48:07 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home1/mdrupomehsan/public_html/all-doner.php on line 118
+[05-Aug-2020 23:48:09 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home1/mdrupomehsan/public_html/all-doner.php on line 118
+[05-Aug-2020 23:50:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home1/mdrupomehsan/public_html/blood-manage.php on line 155
+[05-Aug-2020 23:52:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home1/mdrupomehsan/public_html/blood-manage.php on line 129
+[06-Aug-2020 00:02:26 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home1/mdrupomehsan/public_html/all-doner.php on line 118
+[06-Aug-2020 00:12:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function nullvelu() on array in /home1/mdrupomehsan/public_html/view-detailse.php:109
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 109
+[06-Aug-2020 00:13:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function nullvelu() on array in /home1/mdrupomehsan/public_html/view-detailse.php:109
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 109
+[06-Aug-2020 00:13:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function nullvelu() on array in /home1/mdrupomehsan/public_html/view-detailse.php:109
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 109
+[06-Aug-2020 00:15:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function nullvelu() on array in /home1/mdrupomehsan/public_html/view-detailse.php:109
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 109
+[06-Aug-2020 00:15:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function nullvelu() on array in /home1/mdrupomehsan/public_html/view-detailse.php:109
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 109
+[06-Aug-2020 00:16:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function nullvelu() on array in /home1/mdrupomehsan/public_html/view-detailse.php:109
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 109
+[06-Aug-2020 00:19:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function nullvelu() on array in /home1/mdrupomehsan/public_html/view-detailse.php:109
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 109
+[06-Aug-2020 00:20:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function nullvelu() on array in /home1/mdrupomehsan/public_html/view-detailse.php:98
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 98
+[06-Aug-2020 02:52:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method student::nullfield() in /home1/mdrupomehsan/public_html/view-detailse.php:98
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 98
+[06-Aug-2020 02:53:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method student::nullfield() in /home1/mdrupomehsan/public_html/view-detailse.php:98
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 98
+[06-Aug-2020 02:53:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method student::nullfield() in /home1/mdrupomehsan/public_html/view-detailse.php:98
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 98
+[06-Aug-2020 02:54:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method student::nullfield() in /home1/mdrupomehsan/public_html/view-detailse.php:69
+Stack trace:
+#0 {main}
+  thrown in /home1/mdrupomehsan/public_html/view-detailse.php on line 69
+[06-Aug-2020 14:22:59 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 15:20:42 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 16:48:23 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 16:48:52 Asia/dhaka] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 10 in /home1/mdrupomehsan/public_html/blood-manage.php on line 45
+[06-Aug-2020 16:48:52 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 16:50:05 Asia/dhaka] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 10 in /home1/mdrupomehsan/public_html/blood-manage.php on line 45
+[06-Aug-2020 16:50:05 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 16:50:17 Asia/dhaka] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 10 in /home1/mdrupomehsan/public_html/blood-manage.php on line 45
+[06-Aug-2020 16:50:17 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 16:51:28 Asia/dhaka] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 10 in /home1/mdrupomehsan/public_html/blood-manage.php on line 45
+[06-Aug-2020 16:51:28 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 16:52:02 Asia/dhaka] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 10 in /home1/mdrupomehsan/public_html/blood-manage.php on line 45
+[06-Aug-2020 16:52:02 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 16:52:34 Asia/dhaka] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 10 in /home1/mdrupomehsan/public_html/blood-manage.php on line 45
+[06-Aug-2020 16:52:34 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 16:54:38 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 17:02:30 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 17:03:01 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 17:13:28 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[06-Aug-2020 17:53:26 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[07-Aug-2020 00:02:29 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[07-Aug-2020 02:31:30 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 148
+[07-Aug-2020 01:03:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/mdrupomehsan/public_html/blood-manage.php on line 159
+[07-Aug-2020 12:04:36 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 149
+[07-Aug-2020 12:04:44 Asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/mdrupomehsan/public_html/includes/header.php:1) in /home1/mdrupomehsan/public_html/blood-manage.php on line 157
+[07-Aug-2020 02:02:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'name' (T_STRING) in /home1/mdrupomehsan/public_html/blood-manage.php on line 177
+[07-Aug-2020 22:09:27 Asia/dhaka] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home1/mdrupomehsan/public_html/blood-manage.php on line 149
+[07-Aug-2020 12:43:39 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home1/mdrupomehsan/public_html/index.php on line 1015
+[07-Aug-2020 12:43:42 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home1/mdrupomehsan/public_html/index.php on line 1015
+[18-Aug-2020 06:48:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/mdrupomehsan/public_html/classes/DB.php:33
+Stack trace:
+#0 /home1/mdrupomehsan/public_html/classes/user.php(60): DB::prepare('SELECT * FROM  ...')
+#1 /home1/mdrupomehsan/public_html/index.php(912): user->readAll('blog_table')
+#2 {main}
+  thrown in /home1/mdrupomehsan/public_html/classes/DB.php on line 33
+[19-Aug-2020 13:05:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/mdrupomehsan/public_html/classes/DB.php:33
+Stack trace:
+#0 /home1/mdrupomehsan/public_html/classes/user.php(60): DB::prepare('SELECT * FROM  ...')
+#1 /home1/mdrupomehsan/public_html/index.php(912): user->readAll('blog_table')
+#2 {main}
+  thrown in /home1/mdrupomehsan/public_html/classes/DB.php on line 33
+[24-Aug-2020 11:08:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/mdrupomehsan/public_html/classes/DB.php:33
+Stack trace:
+#0 /home1/mdrupomehsan/public_html/classes/user.php(60): DB::prepare('SELECT * FROM  ...')
+#1 /home1/mdrupomehsan/public_html/index.php(912): user->readAll('blog_table')
+#2 {main}
+  thrown in /home1/mdrupomehsan/public_html/classes/DB.php on line 33
+[12-Oct-2020 07:58:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/mdrupomehsan/public_html/classes/DB.php:33
+Stack trace:
+#0 /home1/mdrupomehsan/public_html/classes/user.php(60): DB::prepare('SELECT * FROM  ...')
+#1 /home1/mdrupomehsan/public_html/index.php(912): user->readAll('blog_table')
+#2 {main}
+  thrown in /home1/mdrupomehsan/public_html/classes/DB.php on line 33
+[02-Nov-2020 11:27:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/mdrupomehsan/public_html/classes/DB.php:33
+Stack trace:
+#0 /home1/mdrupomehsan/public_html/classes/user.php(60): DB::prepare('SELECT * FROM  ...')
+#1 /home1/mdrupomehsan/public_html/index.php(912): user->readAll('blog_table')
+#2 {main}
+  thrown in /home1/mdrupomehsan/public_html/classes/DB.php on line 33
+[03-Nov-2020 00:52:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/mdrupomehsan/public_html/classes/DB.php:33
+Stack trace:
+#0 /home1/mdrupomehsan/public_html/classes/user.php(60): DB::prepare('SELECT * FROM  ...')
+#1 /home1/mdrupomehsan/public_html/index.php(912): user->readAll('blog_table')
+#2 {main}
+  thrown in /home1/mdrupomehsan/public_html/classes/DB.php on line 33
+[07-Nov-2020 07:19:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/mdrupomehsan/public_html/classes/DB.php:33
+Stack trace:
+#0 /home1/mdrupomehsan/public_html/classes/user.php(60): DB::prepare('SELECT * FROM  ...')
+#1 /home1/mdrupomehsan/public_html/index.php(912): user->readAll('blog_table')
+#2 {main}
+  thrown in /home1/mdrupomehsan/public_html/classes/DB.php on line 33
